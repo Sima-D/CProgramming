@@ -2,9 +2,9 @@
 
 ## __My C Projects__:
  	
- - [**Brainstorming**](https://github.com/Sima-D/CProgramming/tree/master/Brainstorming)
+ - [**Brainstorming - merge duplicates**](https://github.com/Sima-D/CProgramming/tree/master/Brainstorming)
 
-### [__Link to whole Java repository__](https://github.com/Sima-D/CProgramming)
+### [__Link to whole C repository__](https://github.com/Sima-D/CProgramming)
 
 ### [__Link to my PROFILE__](https://github.com/Sima-D)
 
