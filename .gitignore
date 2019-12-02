@@ -1,0 +1,16 @@
+
+#ignore all files
+*
+
+#exclude following files
+!/**/
+!*.c
+!*.h
+!*.txt
+!*.jar
+!*.xml
+
+!.gitignore
+!*.md
+!*.png
+
