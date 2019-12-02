@@ -2,9 +2,9 @@
 
 ## __My C Projects__:
  	
- - [**Cows_Bulls_Game**](https://github.com/Sima-D/JavaProgramming/tree/master/Cows_Bulls_Game)
+ - [**Brainstorming**](https://github.com/Sima-D/CProgramming/tree/master/Brainstorming)
 
-### [__Link to whole Java repository__](https://github.com/Sima-D/JavaProgramming)
+### [__Link to whole Java repository__](https://github.com/Sima-D/CProgramming)
 
 ### [__Link to my PROFILE__](https://github.com/Sima-D)
 
